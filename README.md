@@ -1,4 +1,4 @@
-# Income-Insurance-Summer-Internship-2025---Travel-Project
+# Summer-Internship-2025---Travel-Project
 Summer Internship project, worked as a data science intern in an insurance company
 
 The following files consists of 2 folders and 1 report file. Within my internship, I worked as an innovation & analytics intern in the actuarial department in a local insurance company. Tasked on a big project targeted on the dynamic and customer segment-targeted method of pricing our travel insurance. The goal was to gain as much information as possible on who are our repeat purchasers, loyal customers, etc. all using historical customer transaction data for travel policies from 2013 to May 2025. Another additional aspect of the project that I touched lightly upon was building another model to understand the customer archetypes makes us the most profitable as a company (In actuarial terms, this is known as lowest loss ratio/combined ratio.) 
